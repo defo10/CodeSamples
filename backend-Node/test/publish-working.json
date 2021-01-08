@@ -1,0 +1,38 @@
+{
+  "id": "hAcuZRG4mQJ3iOkVcjdF",
+  "title": "Test",
+  "intro": "Dies ist ein Test.",
+  "chapters": [
+    {
+      "cContent": "Chapter 1 Text",
+      "cNotifications": [
+        {
+          "nTimePref": {
+            "bedtime": true,
+            "morning": true,
+            "noon": false
+          },
+          "nTitle": "Ch1 Not1 Title",
+          "nBody": "Ch1 Not1 Text"
+        },
+        {
+          "nTimePref": {
+            "morning": true,
+            "bedtime": true,
+            "noon": true
+          },
+          "nTitle": "Ch1 Not2 Title",
+          "nBody": "Ch1 Not2 Text"
+        }
+      ],
+      "cTitle": "Chapter 1 Test"
+    }
+  ],
+  "timestamp": {
+    "seconds": 1595267920,
+    "nanoseconds": 560000000
+  },
+  "language": "de-DE",
+  "price": "",
+  "image": "https://firebasestorage.googleapis.com/v0/b/selfhelper-8517a.appspot.com/o/media%2Fdrafts%2FPnwDMPJbZmQwQPEL978wreJlRKj2%2FhAcuZRG4mQJ3iOkVcjdF.1.jpg?alt=media&token=a711c00f-b7d7-4f70-a1e1-4ebb8e174dde"
+}
