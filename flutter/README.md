@@ -9,7 +9,8 @@ is like a book a user subscribes to. A path consists of chapters. Each chapter h
 
 # what to look at
 
-It's all more or less the same. I would advise to have a look at lib/android/path/path_screen.dart . The widget PathScreen is the main widget for displaying paths. I think there's a cool animation when the user wants to see more informations about the creator of the path. On a button click, the the button animates and reveals the creator's other paths. This is done in lib/android/path/path_creator.dart
+It's all more or less the same. I would advise to have a look at [lib/android/path/path_screen.dart](lib/android/path/path_screen.dart) . The widget PathScreen is the main widget for displaying paths. 
+I think there's a cool animation when the user wants to see more informations about the creator of the path. On a button click, the button animates and reveals the creator's other paths. This is done in [lib/android/path/path_creator.dart](lib/android/path/path_creator.dart)
 
 Otherwise, the structure is rather straightforward:
 
