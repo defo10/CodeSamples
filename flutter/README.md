@@ -20,3 +20,12 @@ android contains all android-specific code, with each subfolder (account, discov
 
 you can watch a very small walkthrough of the files I uploaded here: https://drive.google.com/file/d/1SRdO4Irmni0_SVzYf8fMvFTTlmHJn-QT/view?usp=sharing
 
+pics:
+
+![1](https://github.com/defo10/CodeSamples/blob/main/flutter/1.png)
+
+![2](https://github.com/defo10/CodeSamples/blob/main/flutter/2.png)
+
+![3](https://github.com/defo10/CodeSamples/blob/main/flutter/3.png)
+
+![4](https://github.com/defo10/CodeSamples/blob/main/flutter/4.png)
