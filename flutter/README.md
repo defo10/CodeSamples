@@ -16,3 +16,7 @@ Otherwise, the structure is rather straightforward:
 
 android contains all android-specific code, with each subfolder (account, discover, ...) for a separate screen. path is used in multiple screens as it is one of the core widgets.
 
+# media
+
+you can watch a very small walkthrough of the files I uploaded here: https://drive.google.com/file/d/1SRdO4Irmni0_SVzYf8fMvFTTlmHJn-QT/view?usp=sharing
+
